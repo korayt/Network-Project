@@ -1,0 +1,4 @@
+GET https://api.nasa.gov/planetary/apod?api_key=6Io3jtp4bh4PuQaVVxiQIzvcvB95xdBO6mSYhL2l
+Accept: application/json
+
+###

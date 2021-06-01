@@ -1,0 +1,16 @@
+
+t
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ó»ÆÉúÿÿÿÿ8©â„…ƒ/
+0
+java:S1220""Move this file to a named package.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ïåØÿÿÿÿÿ8Œ‚Ç·ƒ/
+F
+java:S1481—"(Remove this unused "end" local variable.(ŠÙİÒ8†½¤‡ƒ/
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(ãõØğøÿÿÿÿ8ß±‰¼ƒ/
+T	java:S106j"9Replace this use of System.out or System.err by a logger.(ÖºÖ8ô®“¸ƒ/
+[	java:S106½"9Replace this use of System.out or System.err by a logger.(ãõØğøÿÿÿÿ8ßºŒ¼ƒ/
+[
+java:S4719H"9Replace charset name argument with StandardCharsets.UTF_8(É÷û×üÿÿÿÿ8æ’š·ƒ/
+@
+java:S2119a"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ø·ƒ/
