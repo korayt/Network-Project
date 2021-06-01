@@ -1,9 +1,0 @@
-
-0
-java:S1220""Move this file to a named package.
-[
-java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(×íÐ‡þÿÿÿÿ8ÞÔ”¶ƒ/
-O
-java:S1128"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû8ÞÔ”¶ƒ/
-k
-java:S1128"NRemove this unused import 'javax.imageio.stream.MemoryCacheImageOutputStream'.(ŠŽÍ›8ÞÔ”¶ƒ/

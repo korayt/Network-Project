@@ -1,15 +1,0 @@
-
-]	java:S125-"<This block of commented-out lines of code should be removed.(®ˆ³äıÿÿÿÿ8íİó™‚/
-O
-java:S1144"2Remove this unused private "downloadImage" method.(²ÍİŞ8üÓğ™‚/
-Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ºª¬·ûÿÿÿÿ8ìÚù™‚/
-9
-java:S1643+"Use a StringBuilder instead.(»Œ¡å8ƒ”ÿ™‚/
-0
-java:S1220""Move this file to a named package.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8¿üÊ–‚/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûŸ¢«úÿÿÿÿ8¯œê–‚/
-
-java:S2681,"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(ºª¬·ûÿÿÿÿ8ƒ”ÿ™‚/
-B
-java:S2129(" Remove this "String" constructor(¢²ÍÆüÿÿÿÿ8°€š‚/
